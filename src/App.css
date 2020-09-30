@@ -1,0 +1,14 @@
+/* hover color: #66fcf1
+gold F4AD2F
+background: #1f2833
+menu background: #172A45*/
+body {
+  background: #0a192f !important;
+  /* background: #1C212A !important; */
+  margin: 0px;
+  padding: 0;
+}
+.container{
+  display: flex;
+  padding:0;
+}
